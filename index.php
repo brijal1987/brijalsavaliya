@@ -376,9 +376,9 @@
 							<div class="progress-wrap">
 								<h3>Nodejs</h3>
 								<div class="progress">
-								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="80"
-								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
-								    <span>80%</span>
+								 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="85"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:85%">
+								    <span>85%</span>
 								  	</div>
 								</div>
 							</div>
@@ -482,6 +482,28 @@
 								</div>
 							</div>
 						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>Microservices</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="80"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+								    <span>80%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>REST API/Webservices</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="80"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+								    <span>80%</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</section>
@@ -565,7 +587,7 @@
 					               <div class="timeline-label">
 									  <h2><a href="#">Senior Software Developer</a> <span>April 2019 - Present</span></h2>
 									  <h5>Tech Holding - Ahmedabad, India</h5>
-					                  <p>As a Senior Software Developer, I am working for clients such as Wizarding World, Kiosk and Walmart. The projects consist of Many different technologies like  React/JavaScript/Typescript, AWS, NodeJS, MariaDB with the micro services approach. In these projects I usually work with diverse teams, so I am very used to working in different time zones. Other technologies I am using in a daily basis are Redux/Saga, NOSQL, AWS/Azure, GraphQL, PHP, Laravel, MongoDB, DynamoDB, Cognito, Lambda, Serverless, Docker, CI/CD, GIT, PostgreSQL, Elasticsearch, Microservices Architecture, Swagger Documentation, Jest/Mocha/Chai, Linux.</p>
+					                  	<p>As a Senior Software Developer, I am working for clients such as Wizarding World, Kiosk and Walmart. The projects consist of Many different technologies like  React/JavaScript/Typescript, AWS, NodeJS, MariaDB, Product & Architecture Design with the micro services approach. In these projects I usually work with diverse teams, so I am very used to working in different time zones. Other technologies I am using in a daily basis are Jest/Mocha/Chai, Docker, CI/CD, GIT, NOSQL, AWS/Azure, GraphQL, PHP, Laravel, MongoDB, DynamoDB, Cognito, Lambda, Serverless, Storybook, PostgreSQL, Elasticsearch, Microservices Architecture, Swagger Documentation, Redux/Saga, Linux, C#, PixiJS, Data Factory, SQL server, Azure Functions, Azure Active AD.</p>
 										<p>Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client requirements.</p>
 										<p>Orchestrated efficient large-scale software deployments, including testing features and correcting code.</p>
 										<p>Gathered and defined customer requirements to develop clear specifications for creating well-organized project plans. Estimated work hours and tracked progress using Scrum methodology.</p>
@@ -582,10 +604,12 @@
 					               <div class="timeline-label">
 									   <h2><a href="#">Senior Software Developer</a> <span>January 2018 - March 2019</span></h2>
 									   <h5>Krish Compusoft - Ahmedabad, India</h5>
-					                  	<p>In this position, I was responsible for handling multiple projects at a time with a number of junior developers. Trained and mentored junior developers and engineers, teaching skills in different technologies and working to improve overall team performance.</p>
-										<p>Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements.</p>
+										<p>In this position, I was responsible for handling multiple projects at a time with a number of junior developers. Trained and mentored junior developers and engineers, teaching skills in different technologies and working to improve overall team performance.</p>
+										<p>Worked on Projects from requirement analysis to delivery with managing all the aspects of Project management lifecycle.</p>
+										<p>As a <b>Product Owner</b>, Writing user stories, maintaining and assigning tasks to team, managing backlog, sprint planning and retrospective, daily stand-up.</p>
+										<p>As a <b>Project Manager</b>, Trained and mentored junior developers and engineers, teaching skills in different technologies and working to improve overall team performance. Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs and enhancements.</p>
 										<p>Worked with project managers, developers, quality assurance and customers to resolve technical issues.</p>
-										<p>I have Worked with Javascript, Rest API, Linux, Ubantu, Nginx, Laravel, Symfony, CodeIgniter, Git, AWS, ReactJs, NodeJS, AngularJS, Angular2+, MYSQL, MariaDB, MongoDB, E-commerce, Linux. NginX.</p>
+										<p>I have Worked with Javascript, Rest API, Linux, Ubantu, Nginx, Laravel, Symfony, CodeIgniter, Git, AWS, ReactJs, NodeJS, AngularJS, Angular2+, MYSQL, MariaDB, MongoDB, E-commerce, Linux. NginX, Product & Architecture Design.</p>
 					               </div>
 					            </div>
 					         </article>
@@ -601,8 +625,8 @@
 									   <p>During my tenure, I performed a variety of tasks where I grew up from Fresher to Senior Software Engineer with Handling Juniors, International clients and hitting daily deadlines for them. It was a great learning experience that solidified my desire to further develop my skill-sets and my interest.</p>
 									   <p>Suggested improvements to team and project workflow. Estimated work hours and tracked progress using Scrum methodology.</p>
 									   <p>It was a great learning experience that solidified my desire to further develop my skill-sets and my interest.</p>
-									   <p>Evaluated project requirements and specifications and developed software applications that surpassed client expectations.</p>
-									   <p>I have Mostly Worked with Javascript, Rest API, AngularJS, Angular2+, Laravel, Symfony, E-commerce, CodeIgniter, Git, AWS, NodeJS, TypScript, MYSQL, MariaDB, Zend, Linux, Ubuntu, Nginx.</p>
+									   <p>As a <b>Leader</b>, Evaluated project requirements and specifications and developed software applications that surpassed client expectations. Worked with Technical and Non-technical clients.</p>
+									   <p>I have Mostly Worked with Javascript, Rest API, AngularJS, Angular2+, Laravel, Symfony, E-commerce, CodeIgniter, Git, AWS, NodeJS, TypScript, MYSQL, MariaDB, Zend, Linux, Ubuntu, Nginx, Product & Architecture Design.</p>
 					               </div>
 					            </div>
 					         </article>
