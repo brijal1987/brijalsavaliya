@@ -134,7 +134,7 @@
 							<div class="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
 								<div class="col-md-12">
 									<div class="about-desc">
-										<span class="heading-meta">About Us</span>
+										<span class="heading-meta">About Me</span>
 										<h2 class="colorlib-heading">Who Am I?</h2>
 										<p><strong>My name is Brijal Savaliya</strong> and I am from Ahmedabad, Gujarat. Currently I am working as Senior Software developer with Tech Holding, Ahmedabad.</p>
 										<p>As an Experienced Full Stack Developer with almost 10 years of experience using different technologies, I have managed all aspects of the development process for small to medium-sized companies.</p>
