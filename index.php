@@ -100,7 +100,7 @@
 					   				<div class="slider-text-inner js-fullheight">
 					   					<div class="desc">
 						   					<h1>Hi! <br>Brijal Savaliya</h1>
-											<p><a target="_blank" href="https://drive.google.com/file/d/1GkYSA2B8d8ht9AM8X2NjUZa3YWLWEB5K/view" class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
+											<p><a target="_blank" href="https://drive.google.com/file/d/1rm_mhvUbFjbDsms40b6Dzg5L8kyviEzl/view" class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
 										</div>
 					   				</div>
 					   			</div>
