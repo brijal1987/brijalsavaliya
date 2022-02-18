@@ -100,7 +100,7 @@
 					   				<div class="slider-text-inner js-fullheight">
 					   					<div class="desc">
 						   					<h1>Hi! <br>Brijal Savaliya</h1>
-											<p><a target="_blank" href="https://drive.google.com/file/d/1rm_mhvUbFjbDsms40b6Dzg5L8kyviEzl/view" class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
+											<p><a target="_blank" href="https://drive.google.com/file/d/1TI3zY8jOa3LDWawg5dBljCNdeSRXDjAq/view" class="btn btn-primary btn-learn">Download CV <i class="icon-download4"></i></a></p>
 										</div>
 					   				</div>
 					   			</div>
@@ -137,7 +137,7 @@
 										<span class="heading-meta">About Me</span>
 										<h2 class="colorlib-heading">Who Am I?</h2>
 										<p><strong>My name is Brijal Savaliya</strong> and I am from Ahmedabad, Gujarat. Currently I am working as Senior Software developer with Tech Holding, Ahmedabad.</p>
-										<p>As an Experienced Full Stack Developer with almost 10 years of experience using different technologies, I have managed all aspects of the development process for small to medium-sized companies.</p>
+										<p>As an Experienced Full Stack Developer with almost 12 years of experience using different technologies, I have managed all aspects of the development process for small to medium-sized companies.</p>
 										<p>I believe I possess the skills, qualifications and vital experience necessary to make a very profound contribution to business operation with great communication skills. In my current and previous roles I have delivered substantial improvements in creating high quality systems and streamlining operations, resulting in improved revenue, increased profits, and a high rate of client satisfaction.</p>
 										<p>With strong interpersonal skills. I work efficiently both as an individual contributor as well as along with a team. I seek new challenges and try to think out-of-the-box while looking for creative solutions to a given problem.</p>
 										<p>Besides the details given in my resume, I believe in character, values, vision, and action. I am a quick learner and believe in learning from my mistakes for I strongly feel that this virtue will take me ahead in life and career.</p>
@@ -582,7 +582,55 @@
 					               </div>
 
 					               <div class="timeline-label">
-									  <h2><a href="#">Senior Software Developer</a> <span>April 2019 - Present</span></h2>
+							  <h2><a href="#">Senior Software Developer</a> <span>September 2021 - Present</span></h2>
+							  <h5>REDspace - Nova Scotia, Canada</h5>
+							<p>Write well designed, testable, efficient code using the best software and web development practices.</p>
+							<p>Create website layout/user interface by using standard HTML/CSS practices.</p>
+							<p>Integrate data from various back-end services and database.</p>
+							<p>Gather and refine specifications and requirements based on technical needs.</p>
+							<p>Analyze assigned tasks, provide work estimates, and manage own time to keep development on schedule.</p>
+							<p>Create and maintain software documentation.</p>
+							<p>Be responsible for maintaining, expanding, and scaling websites.</p>
+							<p>Cooperate with web designers to match visual design intent.</p>
+							<p>Consult with clients to develop and document requirements.</p>
+							<p>Establish and promote development guidelines, best practices, and standards</p>
+							<p>Mentorship of junior developers, providing technical coaching and guidance as required.</p>
+					               </div>
+					            </div>
+					         </article>
+
+						 <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+					            <div class="timeline-entry-inner">
+
+					               <div class="timeline-icon color-1">
+					                  <i class="icon-pen2"></i>
+					               </div>
+
+					               <div class="timeline-label">
+							  <h2><a href="#">Senior Software Developer</a> <span>May 2021 - October 2021</span></h2>
+							  <h5>Xendit - Jakarta, Indonesia</h5>
+							<p>Following Agile Methodology for projects with Sprint Planning, Backlog Grooming, Daily Standup, Sprint Retrospective, Demo.</p>
+							<p>Interacting with the customer to solve their daily technical problems. Develops software solutions by studying information needs, conferring with users, studying systems flow, data usage, and work processes; investigating problem areas; and following the software development lifecycle.</p>
+							<p>Develop high-quality software design and architecture. Develop tools and applications by producing clean, efficient code. Automate tasks through appropriate tools and scripting. Review and debug code.</p>
+							<p>Improving system quality by identifying issues and common patterns, and developing standard operating procedures.</p>
+							<p>Enhancing applications by identifying opportunities for improvement, making recommendations, and designing and implementing systems.</p>
+							<p>Maintaining and improving existing codebases and peer review code changes.</p>
+							<p>Liaising with colleagues to implement technical designs.</p>
+							<p>Investigating and using new technologies where relevant.</p>
+							<p>Providing written knowledge transfer material.</p>
+					               </div>
+					            </div>
+					         </article>
+
+						 <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+					            <div class="timeline-entry-inner">
+
+					               <div class="timeline-icon color-1">
+					                  <i class="icon-pen2"></i>
+					               </div>
+
+					               <div class="timeline-label">
+									  <h2><a href="#">Senior Software Developer</a> <span>April 2019 - April 2021</span></h2>
 									  <h5>Tech Holding - Ahmedabad, India</h5>
 					                  	<p>As a Senior Software Developer, I am working for clients such as Wizarding World, Kiosk and Walmart. The projects consist of Many different technologies like  React/JavaScript/Typescript, AWS, NodeJS, MariaDB, Product & Architecture Design with the micro services approach. In these projects I usually work with diverse teams, so I am very used to working in different time zones. Other technologies I am using in a daily basis are Jest/Mocha/Chai, Docker, CI/CD, GIT, NOSQL, AWS/Azure, GraphQL, PHP, Laravel, MongoDB, DynamoDB, Cognito, Lambda, Serverless, Storybook, PostgreSQL, Elasticsearch, Microservices Architecture, Swagger Documentation, Redux/Saga, Linux, C#, PixiJS, Data Factory, SQL server, Azure Functions, Azure Active AD.</p>
 										<p>Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client requirements.</p>
