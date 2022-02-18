@@ -873,7 +873,7 @@
 									<i class="icon-map"></i>
 								</div>
 								<div class="colorlib-text">
-									<p>4, Giriraj Homes, Near Shashwat Residency, Megh Malhar Road, Nikol - Ahmedabad, 382350, India</p>
+									<p>Halifax, Nova Scotia, Canada</p>
 								</div>
 							</div>
 
@@ -882,7 +882,7 @@
 									<i class="icon-phone"></i>
 								</div>
 								<div class="colorlib-text">
-									<p><a href="tel://">+91 9898 653 763</a></p>
+									<p><a href="tel://+19029437456">+1 902 943 7456</a></p>
 								</div>
 							</div>
 						</div>
